@@ -5,7 +5,9 @@
 This implementation is focused on the use of Apriori and Kmeans to extract valuable info. about prenatal risk groups 
 
 This repository contains the implementation of the machine learning approach presented in our paper:  
-**"[Paper Title]"** ([arXiv/Link]())  
+**"A Hybrid Approach Based on Clustering and Association
+Rules to Analyze Sociodemographic Profiles Related to
+Newborn Health and Well-being"**   
 Authors: Morsoleto, R. et al.  
 Presented and accept at: [ICISMED](https://www.icismed.org/) 2025, waiting publication
 
