@@ -21,9 +21,10 @@ poetry install
 ## 🔮 Structure
 
 ````mermaid
-a[Pre-processing] --> b[K-means]
-b --> c[Apriori]
-c --> d[Post-processing]
+flowchart LR
+    a[Pre-processing] --> b[K-means]
+    b --> c[Apriori]
+    c --> d[Post-processing]
 ````
 - **Pre-processing**: Responsible to handle raw data, removing
 missing values, classifying features and preparing it for
